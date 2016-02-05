@@ -1,4 +1,8 @@
-# CSharpLab
-C # of laboratory
+CSharpLab (C#の俺々実験室)
+==============================
 
-0932
+repository
+* master  必ずビルドできる
+* working 作業中でビルドできないものを含む
+
+s
